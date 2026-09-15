@@ -1,4 +1,3 @@
-# Abdullahrahimhussain
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=200&section=header&text=Assalam-o-Alaikum,%20I'm%20Abdullah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20solves%20real%20problems&descAlignY=55&descSize=18" />
 <div align="center">
   <a href="https://github.com/abdullahrahimhussain">
@@ -12,6 +11,11 @@ I work comfortably in both English and Urdu, and I'm especially interested in bu
 🛠️ Focused on applied engineering, data-driven tools, and problem-solving
 🌍 Based in Saudi Arabia and Pakistan
 📈 Always tinkering with something outside of class
+🚀 Projects
+Predictive Maintenance: Industrial ML for Fault Detection
+Applied machine learning to industrial sensor data to predict equipment faults before they happen, cutting down on unplanned downtime.
+Machine Learning for Automotive Safety
+Built and evaluated ML models aimed at automotive safety use cases, working through the full pipeline from data to a validated model.
 🧰 Tech Stack
 <div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
